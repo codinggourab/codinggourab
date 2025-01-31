@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codinggourab" alt="codinggourab" /></a> </p>
 
-- 🔭 I’m currently working on **ONLINE ATTENDANCE MANAGEMENT SYSTEM**
+- 🔭 I’m currently working on **JOB PORTAL - MERN STACK**
 
-- 🌱 I’m currently learning **Advanced Javascript**
+- 🌱 I’m currently learning **DSA with python**
 
 - 👨‍💻 All of my projects are available at [https://breeze-exultation-profound.w3spaces.com/](https://breeze-exultation-profound.w3spaces.com/)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **gourabdey1357@gmail.com**
 
