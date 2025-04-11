@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA with python**
 
-- 👨‍💻 All of my projects are available at [https://breeze-exultation-profound.w3spaces.com/](https://breeze-exultation-profound.w3spaces.com/)
+- 👨‍💻 All of my projects are available at [https://breeze-exultation-profound.w3spaces.com/]((https://codinggourab.github.io/portfolio.github.io/))
 
 - 💬 Ask me about **PYTHON**
 
