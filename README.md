@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA with python**
 
-- 👨‍💻 All of my projects are available at [(https://codinggourab.github.io/portfolio.github.io/)]((https://codinggourab.github.io/portfolio.github.io/))
+- 👨‍💻 All of my projects are available at [https://codinggourab.github.io/portfolio.github.io/](https://codinggourab.github.io/portfolio.github.io/)
 
 - 💬 Ask me about **PYTHON**
 
