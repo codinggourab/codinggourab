@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourab Dey</h1>
-<h3 align="center">🚀 Passionate Fullstack Developer from India</h3>
+<h3 align="center">🚀 Passionate Java Developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20%7C%20Python%20%7C%20MERN%20Stack%20Developer;Fullstack%20Web%20Enthusiast;Lifelong%20Learner%20%F0%9F%8C%8A&center=true&width=500&height=45">
@@ -11,8 +11,8 @@
 
 ---
 
-- 🔭 I’m currently working on **JOB PORTAL - MERN STACK**
-- 🌱 I’m learning **Data Structures & Algorithms with Python**
+- 🔭 I’m currently working on **CMS - JAVA SPRING BOOT**
+- 🌱 I’m learning **Data Structures & Algorithms with Java**
 - 👨‍💻 All my projects: [Portfolio Website](https://codinggourab.github.io/portfolio.github.io/)
 - 💬 Ask me about **Python, Java, and Web Development**
 - 📫 Reach me at **gourabdey1357@gmail.com**
